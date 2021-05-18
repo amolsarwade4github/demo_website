@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.container {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.serach__container {
+    margin-left: 1rem;
+}
+
+input {
+    padding: .5rem .5rem;
+    outline: none;
+}
+
+button {
+    padding: .5rem 1rem;
+    cursor: pointer;
+}
